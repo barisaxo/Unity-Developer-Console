@@ -3,7 +3,7 @@ A generic and game-agnostic developer console in Unity.
 
 ## Usage
 
-1. Toggle the developer console open and close by pressing the `\`` (backtick) key.
+1. Toggle the developer console open and close by pressing the \` (backtick) key.
 2. Use the developer console command-line interface. Type and execute the `HELP` command for a list of all available commands.
 3. For more information about a specific command, type and execute `HELP <COMMAND>`.
 
